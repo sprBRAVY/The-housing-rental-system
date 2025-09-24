@@ -27,7 +27,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== СИСТЕМА АРЕНДЫ ЖИЛЬЯ (ОСНОВНАЯ ВЕТКА) ===");
+        System.out.println("=== СИСТЕМА АРЕНДЫ ЖИЛЬЯ (ОСНОВНАЯ ВЕТКА) ====");
         System.out.println("1. Поиск квартир по максимальной цене");
         System.out.println("2. Фильтрация арендаторов по минимальному сроку договора (в днях)");
         System.out.print("Выберите операцию (1 или 2): ");
